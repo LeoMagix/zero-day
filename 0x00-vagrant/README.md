@@ -1,1 +1,1 @@
-\n. Perfecting vagrant.
+Perfecting vagrant.
